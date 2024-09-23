@@ -17,7 +17,8 @@
         class01 -> main 
         git push origin class01
 
-
+### To check/verify the modified contenty in existing file,
+      git diff <filename>
 ## Course Completed
 
 class01 sep 18th https://us06web.zoom.us/rec/share/FmBPyvAsTuu_uEcE6glhkCmt-_uc9Uc7BxEqTUUSk021nt-WvW1inuw2CUGbkIgd.o1G7sr94PTh4lGhI
