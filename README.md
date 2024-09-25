@@ -4,6 +4,7 @@
 
 ### To clone a repository,
     git clone https URL 
+    
 ### To stage the changes 
    git add <filename>
 
