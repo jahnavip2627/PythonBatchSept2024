@@ -66,3 +66,4 @@ class04 sept 24th
         divmod() function
         compound operations
         jupyter notebook 
+    
