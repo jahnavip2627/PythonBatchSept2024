@@ -4,4 +4,3 @@ print("\u0C00")
 print("\u0C20")
 print("\u0C10")
 print("\u0c7F")
-
