@@ -20,6 +20,23 @@
 
 ### To check/verify the modified contenty in existing file,
       git diff <filename>
+
+
+## Daily 
+
+To check the branch is clean, 
+
+    git status 
+
+To checkout to the main branch 
+    git checkout main 
+
+To get the latest changes 
+    git pull origin main 
+
+To create new branch 
+    git checkout -b <NEW BRANCH NAME>
+
 ## Course Completed
 
 class01 sep 18th 
@@ -33,4 +50,19 @@ class02 sept 19th
      Basic data types supports 
      Indendation issue
 
+class03 Sept 23rd
 
+    built-in functions
+    Comment Operator
+    keywords and Identifiers
+    strictly-typed and data type conversions
+    python interactive mode
+    Line continuation operator
+
+class04 sept 24th 
+02.Basics
+    Arithmetic operations
+        +, -, , /, //, %, *
+        divmod() function
+        compound operations
+        jupyter notebook 
