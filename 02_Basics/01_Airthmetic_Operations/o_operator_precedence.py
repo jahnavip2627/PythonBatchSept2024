@@ -28,7 +28,7 @@ print(result)
 
 expression = 40 / 2 / 2
 print(result)
-
+# The first operation that takes place is 40 / 2, which equals 20. Then the second operation is 20 / 2, which equals 10.
 expression = 120 / 3 / 4
 print(result)
 
