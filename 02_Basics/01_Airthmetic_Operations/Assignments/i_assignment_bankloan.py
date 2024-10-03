@@ -20,9 +20,6 @@ Step 3: Calculate the compound interest
 Step 4: Display both the final amounts for simple and compound interest.
 """
 
-#!/usr/bin/python3
-
-#!/usr/bin/python3
 
 # Step 1: Get the principal amount, interest rate, and time from the user
 P = float(input("Enter the principal amount (P): "))
