@@ -14,8 +14,6 @@ Step 5: House Rent paid of 1500
 Step 6: Display Balance
 """
 
-#!/usr/bin/python3
-
 # Step 1: Create a variable 'balance' with initial value 0
 balance = 0
 print("Initial Balance:", balance)
